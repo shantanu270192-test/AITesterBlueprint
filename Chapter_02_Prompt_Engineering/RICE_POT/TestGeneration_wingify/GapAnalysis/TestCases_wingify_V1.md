@@ -1,5 +1,5 @@
 # TestCases_wingify_V1.md
-## VWO Login Page — Manual Test Cases
+## VWO Login Page — Test Cases
 **Application:** https://app.wingify.com | **Module:** Login / Authentication
 **Generated using:** RICE-POT Prompt Engineering Method
 **Source:** Product Requirements Document — VWO Login Dashboard
